@@ -1,0 +1,1 @@
+{"name":"property-oauth-service","private":true,"type":"module","scripts":{"typecheck":"tsc --noEmit","test":"node --import tsx test/maintenance_decision.test.ts","start":"node --import tsx src/property_oauth_service.ts"},"dependencies":{"tsx":"^4.19.0","typescript":"^5.6.0","zod":"^3.23.0"}}
